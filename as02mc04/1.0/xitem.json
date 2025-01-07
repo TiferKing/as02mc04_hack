@@ -1,0 +1,38 @@
+{
+  "config": {
+    "items": [
+      {
+        "infra": {
+          "name": "as02mc04", 
+          "display": "AS02MC04 NIC Card", 
+          "revision": "1.0", 
+          "description": "AS02MC04 NIC Card", 
+          "company": "tiferking.cn", 
+          "company_display": "TiferKing", 
+          "author": "TiferKing", 
+          "contributors": [
+            {
+              "group": "TiferKing", 
+              "url": "www.tiferking.cn"
+            }
+          ], 
+          "category": "Single Part",
+          "logo": "as02mc04_image.jpg",
+          "website": "https://www.tiferking.cn/index.php/2025/01/06/721/", 
+          "search-keywords": [
+            "as02mc04", 
+            "tiferking.cn", 
+            "ali", 
+            "Alibaba",
+            "Cloud", 
+            "NIC",  
+            "board", 
+            "Single Part",
+          ]
+        }
+      }
+    ]
+  },
+  "_major": 1,
+  "_minor": 0
+}
