@@ -72,6 +72,6 @@
     <pin index="91" name="pcie_rx5_p" loc="AD2"/>  
     <pin index="92" name="pcie_rx6_p" loc="AE4"/>  
     <pin index="93" name="pcie_rx7_p" loc="AF2"/>  
-    <pin index="94" name="pcie_perstn_rst" iostandard="LVCMOS18" loc="T19"/> 
+    <pin index="94" name="pcie_perstn_rst" iostandard="LVCMOS18" loc="A9"/> 
   </pins> 
 </part_info>
